@@ -5,9 +5,9 @@ function initVue(externalVar) {
     el: '#app',
     data: {
 
-      'imgSearch': `img/Ciao.jpg`,
+      'x': externalVar,
 
-      'x': externalVarm
+      'imgSearch': 'CIAO.jpg'
 
     }
 

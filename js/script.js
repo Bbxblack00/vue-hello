@@ -7,7 +7,7 @@ function initVue(externalVar) {
 
       'x': externalVar,
 
-      'imgSearch': 'CIAO.jpg'
+      'imgSearch': 'img/CIAO.jpg'
 
     }
 

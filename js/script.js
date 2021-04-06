@@ -16,7 +16,7 @@ function initVue(externalVar) {
 
 function init() {
 
-  var variable = 'Che bella giornata';
+  const Variable = 'Che bella giornata';
 
   initVue(variable)
 

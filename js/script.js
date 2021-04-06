@@ -18,7 +18,7 @@ function init() {
 
   const Variable = 'Che bella giornata';
 
-  initVue(variable)
+  initVue(Variable)
 
 }
 
